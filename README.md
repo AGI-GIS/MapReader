@@ -19,8 +19,7 @@ pip install -r requirements.txt
 ```
 
 ### Datasets
-We have released some of the data used to train MapReader and all of the evaluation data, which is stored in Data This includes the training data MapTrain, the evaluation data MapEval-DB, and MapEval-QA. 
-
+We have released part of the data used for training MapReader, along with all evaluation data, which are stored in the Data folder. This includes the training data MapTrain, and the evaluation data MapEval-DB and MapEval-QA. If you require the complete training data, please emaill us yuwh@cug.edu.cn.
 
 ## Training
 Start the fine-tuning process with this command:
